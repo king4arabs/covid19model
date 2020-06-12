@@ -11,7 +11,7 @@ This code is the exact code that was used in Flaxman, Mishra, Gandy et al. "Esti
 
 To run the code from the main folder in Rstudio ``source("base-nature.r")`` or from the command line ``Rscript base-nature.r``.
 
-The code should be run in full mode to obtain results---debug mode is only to check that your environment has the required libraries; results will not be reliable as the MCMC chains will not have converged.
+The code should be run in full mode to obtain results---debug mode is only to check that your environment has the required libraries; results will not be reliable as the MCMC chains will not have converged..
 
 The repository with posterior draws of the model in Flaxman, Mishra, Gandy et al. "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe," Nature, 2020. [https://www.nature.com/articles/s41586-020-2405-7](https://www.nature.com/articles/s41586-020-2405-7) is [here](https://github.com/ImperialCollegeLondon/covid19modelnaturedraws).
 
